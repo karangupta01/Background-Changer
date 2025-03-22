@@ -1,4 +1,5 @@
 🎨 Background Color Changer App
+
 A simple and interactive Background Color Changer App built using React JS and Vite, showcasing the use of the useState Hook for dynamic state management. This app allows users to effortlessly change the background color by selecting different options, making it a great way to explore:
 
 🌈 Dynamic Background Change – Switch background colors with a button click.
