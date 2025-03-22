@@ -1,12 +1,20 @@
-# React + Vite
+🎨 Background Color Changer App
+A simple and interactive Background Color Changer App built using React JS and Vite, showcasing the use of the useState Hook for dynamic state management. This app allows users to effortlessly change the background color by selecting different options, making it a great way to explore:
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🌈 Dynamic Background Change – Switch background colors with a button click.
 
-Currently, two official plugins are available:
+⚛️ React State Management – Implemented using the useState Hook to track and update selected colors.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+⚡️ Vite-Powered Build – Fast build and hot reload for a smooth development experience.
 
-## Expanding the ESLint configuration
+🎨 Responsive UI – Clean and intuitive design for a seamless user experience.
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+📚 Technologies Used
+⚛️ React JS – Build modular and interactive UI components.
+
+⚡️ Vite – Ultra-fast JavaScript toolchain for modern web apps.
+
+🔥 JavaScript (ES6+) – Leverage modern JavaScript features for clean and efficient code.
+
+🧠 React Hooks – Managed state with useState for color changes.
+
